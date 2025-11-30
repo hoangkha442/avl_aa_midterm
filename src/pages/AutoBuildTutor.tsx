@@ -163,7 +163,7 @@ export default function AutoBuildTutor() {
       </div>
 
       {/* Right panel: list numbers + play/pause */}
-      <div className="absolute right-6 bottom-6 z-30 w-[360px] max-w-[90vw] rounded-3xl border border-white/10 bg-[#0B1020]/70 p-4 text-white shadow-[0_20px_60px_rgba(0,0,0,0.7)] backdrop-blur">
+      <div className="absolute right-14 top-30 z-30 w-[360px] max-w-[90vw] rounded-3xl border border-white/10 bg-[#0B1020]/70 p-4 text-white shadow-[0_20px_60px_rgba(0,0,0,0.7)] backdrop-blur">
         <div className="flex items-center justify-between">
           <div className="text-sm font-extrabold">Danh sách số</div>
 
